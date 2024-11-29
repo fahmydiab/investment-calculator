@@ -1,7 +1,6 @@
 # EssentialsPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
-![Uploading Screenshot 2024-11-29 at 7.22.37 PM.png…]()
 
 ## Development server
 
